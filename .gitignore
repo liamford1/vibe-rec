@@ -1,0 +1,10 @@
+node_modules/
+.env
+__pycache__/
+*.pyc
+.mypy_cache/
+pytest_cache/
+.data/
+data/cache/
+index/faiss/artifacts/
+frontend/.next/

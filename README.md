@@ -1,2 +1,7 @@
-# vibe-rec
-An AI-powered music recommender that suggests songs based on their sound and emotional feel. Combines audio embeddings from Spotify previews with lyrical sentiment to deliver vibe-based, personalized playlists that adapt to user feedback.
+# Vibe-Rec
+AI-powered, vibe-first music recommender. Day-1 scaffold in place.
+
+## Dev
+1) `make up`
+2) API health: http://localhost:8000/health
+3) Init DB: `make db-init`
